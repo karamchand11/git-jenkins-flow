@@ -1,5 +1,5 @@
 #!/bin/bash
-c=0
+c=50
 if [ $c -gt 10 ]
 then
 echo "c is grater"
