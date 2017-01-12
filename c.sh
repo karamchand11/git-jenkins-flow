@@ -1,6 +1,6 @@
 #!/bin/bash
 c=15
-if [ $c -gt 20 ]
+if [ $c -gt 10 ]
 then
 echo "c is grater"
 else
