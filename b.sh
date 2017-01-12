@@ -1,6 +1,6 @@
 #!/bin/bash
 b=10
-if [ $b -gt 6 ]
+if [ $b -gt 11 ]
 then
 echo "b is grater"
 else
